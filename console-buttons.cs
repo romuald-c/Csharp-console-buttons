@@ -86,4 +86,4 @@ namespace BlueBook
 			Console.ReadKey();
 		}
 	}
-}
+}
